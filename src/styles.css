@@ -1,7 +1,33 @@
+body {
+  background-color: black;
+}
+.container {
+  margin: auto;
+  text-align: center;
+}
 
-  /*font-family: "Roboto", serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
+p {
+  font-family: "Poppins", serif;
+  color: white;
+}
+h2 {
+  font-family: "Poppins", serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: white;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 96px;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-contact {
+  background: white;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px;
+  border-radius: 5px;
 }
