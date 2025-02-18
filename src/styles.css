@@ -1,22 +1,23 @@
 body {
   background-color: black;
 }
-.container {
+.hero {
   margin: auto;
   text-align: center;
+  padding: 150px 15px;
 }
 
-p {
+.hero p {
   font-family: "Poppins", serif;
   color: white;
 }
-h2 {
+.hero h2 {
   font-family: "Poppins", serif;
   font-weight: normal;
   font-size: 24px;
   color: white;
 }
-h1 {
+.hero h1 {
   font-family: "Playfair Display", serif;
   font-size: 96px;
   font-weight: bold;
