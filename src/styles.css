@@ -23,6 +23,14 @@ body {
   font-weight: bold;
   color: white;
 }
+p {
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
 
 .btn-contact {
   background: white;
@@ -31,4 +39,25 @@ body {
   line-height: 27px;
   padding: 15px;
   border-radius: 5px;
+}
+.btn-project-details {
+  background: white;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px;
+  border-radius: 5px;
+  margin: auto 0;
+}
+.project-image {
+  max-width: 100%;
+}
+.project-description {
+  text-align: center;
+}
+
+.featured-projects {
+  font-family: "Playfair Display";
+  font-size: 48px;
+  line-height: 1.5;
 }
