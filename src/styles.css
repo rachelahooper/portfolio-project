@@ -23,23 +23,23 @@ body {
   font-weight: bold;
   color: white;
 }
-.about-section {
+.content {
   text-align: center;
   padding: 0;
 }
-.about-section h1 {
+.content h1 {
   font-family: "Playfair display", serif;
   font-size: 64px;
   line-height: 2;
   color: white;
 }
-.about-section h2 {
+.content h2 {
   font-family: "Poppins", serif;
   font-size: 24px;
   line-height: 1.5;
   font-weight: bold;
 }
-.about-section-content {
+.content-container {
   padding: 120px 20px;
 }
 .about-image {
@@ -51,7 +51,16 @@ p {
   text-align: center;
   color: white;
 }
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 96px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
 h2 {
+  font-family: "Poppins", serif;
+  font-size: 24px;
   text-align: center;
   color: white;
 }
