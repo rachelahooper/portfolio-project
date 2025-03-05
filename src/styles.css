@@ -67,6 +67,9 @@ nav li.active a {
 .content-container {
   padding: 120px 20px;
 }
+.content a {
+  color: white;
+}
 .about-image {
   max-height: 80%;
   border-radius: 4px;
@@ -138,6 +141,14 @@ h2 {
     font-size: 18px;
   }
   .featured-projects {
-    font-size: 32px;
+    font-size: 28px;
+  }
+  .btn-contact {
+    background: white;
+    color: black;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px;
+    border-radius: 5px;
   }
 }
