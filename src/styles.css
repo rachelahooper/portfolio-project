@@ -142,6 +142,13 @@ footer .email-link {
 footer .email-link:hover {
   color: red;
 }
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: red;
+}
 
 @media (max-width: 576px) {
   .btn-project-details {
