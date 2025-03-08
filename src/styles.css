@@ -101,9 +101,12 @@ h2 {
   padding: 15px;
   border-radius: 5px;
 }
-.btn-project-details {
-  background: white;
+.btn-contact a {
   color: black;
+}
+.btn-project-details {
+  color: black;
+  background: white;
   font-size: 18px;
   line-height: 27px;
   padding: 15px;
@@ -142,11 +145,16 @@ footer .email-link:hover {
 
 @media (max-width: 576px) {
   .btn-project-details {
+    color: black;
+    background-color: white;
     font-size: 15px;
     line-height: 20px;
     padding: 10px;
+    border-radius: 5px;
+    margin: auto 0;
     margin-bottom: 45px;
   }
+
   .hero {
     padding: 75px 15px;
   }
